@@ -1,13 +1,13 @@
 # ICTF25 challenge 
 .zip files are web challenges , the .png is forensic challenge
 
-# Forensics -easy
+Forensics -easy
 
 ## You See What You See
 
 Hey, I think you all are very familiar with this poster created by our graphics team right! But are you sure that you had really seen everything from this picture?
 
-# Web- easy
+Web- easy
 
 ## Sweet & Sour Sauce
 
@@ -15,7 +15,7 @@ Welcome to the ultimate scavenger hunt! Someone’s left a trail of digital brea
 
 Are you observant enough to gather all the pieces?
 
-# Web -medium
+Web -medium
 
 ## Glitch in the Query
 
